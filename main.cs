@@ -3,7 +3,7 @@ using System.Linq;
 class MainClass {
    public class OzCalc
     {
-        public static string[] answers = { "sure", "yes", "y", "why not?", "why not", "definitely", "for sure", "absolutely", "i guess", "okay","ok","k", "yeah" };
+        public static string[] answers = { "sure", "yes", "y", "why not?", "why not", "definitely", "for sure", "absolutely", "i guess", "okay","ok","k", "yeah","i suppose" };
         public int Add(int firstnumber, int secondNumber)
         {
             return firstnumber + secondNumber;
